@@ -6,4 +6,4 @@ This GitHub contains the code used for processing different things related to th
 
 "Fish_depth_histogram" is the code used to make a histogram of the count of individual fish and schools versus depth from the .csv files (fish_school_events_xxxx). Since the detections were in a relatively narrow area, the intervals are all of only 1 m. This can obviously be changed. 
 
-
+"tv80_trawl_analysis" is the code for the calculations about the fish density. It uses 2 files: "Havfisken-D20260609-T084257.txt" and "Havfisken-D20260611-T074259.txt" from the HFLog from Havfisken.
